@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "VeggieKidFootPrints")(type "KiCad")(uri "D:/KiCadFromHome/VeggieKid_V2/VeggieKidFootPrints.pretty")(options "")(descr ""))
+  (lib (name "SilkArt")(type "KiCad")(uri "${KIPRJMOD}/SilkArt.pretty")(options "")(descr ""))
+)
